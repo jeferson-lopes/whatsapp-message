@@ -1,2 +1,2 @@
-# Whatsapp_JavaScript-Batch
+# Whatsapp-JavaScript-Batch
 Envio de mensagem usando JavaScript e Batch(.bat)
